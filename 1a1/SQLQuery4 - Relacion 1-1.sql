@@ -1,5 +1,7 @@
 -- Actividad 1.2 Laboratorio III
 
+-- Relacion 1-1: Una Consultora guarda en una tabla sus clientes de diferntes sectores. (Un cliente Tiene un Unico Sector).
+
 Create Database Relacion_1_1
 Go
 
@@ -20,7 +22,6 @@ Create Table Sector(
 	Nombre_Sector Varchar(150) not null,
 	Nombre_Empresa Varchar(150) not null
 )
-
 
 -- Restricciones
 
