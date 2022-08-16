@@ -36,6 +36,7 @@ Go
 Alter table Sector
 add Constraint UNQ_Sector unique (ID_Cliente) 
 
+Go
 Alter table Sector
 add Constraint FK_Sector Foreign key (ID_Cliente)
 References Cliente(ID_Cliente)
