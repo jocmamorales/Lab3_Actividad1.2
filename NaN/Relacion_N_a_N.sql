@@ -1,4 +1,4 @@
---Esta es una realacion de muchos a muchos entre clientes y instalaciones
+--Esta es una realacion de muchos a muchos entre clientes y instalaciones, un cliente puede tener muchas instalaciones y una instalación puede tener muchos clientes
 create database Relacion_N_a_N
 go
 
