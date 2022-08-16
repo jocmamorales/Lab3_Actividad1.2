@@ -1,3 +1,4 @@
+--Relacion de 1 a N. Un cliente puede tener muchas facturas pero una factura solo un cliente.
 Create Database Relacion_1_N
 Go
 
